@@ -37,4 +37,4 @@ cv2.putText(frame, str(barcode.data), (100, 100), cv2.FONT_HERSHEY_PLAIN, 2,(255
 # Demo
 
 Clik the picture to see the Video
-[![Watch the video](https://img.youtube.com/vi/8dm1jecRQhO0/maxresdefault.jpg)](https://youtu.be/dm1jecRQhO0)
+[![Watch the video](https://img.youtube.com/vi/dm1jecRQhO0/maxresdefault.jpg)](https://youtu.be/dm1jecRQhO0)
