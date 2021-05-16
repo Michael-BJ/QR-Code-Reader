@@ -32,3 +32,7 @@ cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 0, 255),2)
 6. Put the text in the frame
 ````
 cv2.putText(frame, str(barcode.data), (100, 100), cv2.FONT_HERSHEY_PLAIN, 2,(255, 0, 0), 3)
+# Demo
+
+Clik the picture to see the Video
+[![Watch the video](https://img.youtube.com/vi/8dm1jecRQhO0/maxresdefault.jpg)](https://youtu.be/dm1jecRQhO0)
